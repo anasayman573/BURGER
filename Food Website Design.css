@@ -5,7 +5,7 @@
 }
 .hero{
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(food.jpg);
+   
     background-position: center;
     background-size: cover;
     overflow-x: hidden;
